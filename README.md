@@ -1,4 +1,4 @@
-### TDD 실습 #5 : "TDD 는 반드시 필요한가?" 에 대한 report
+### TDD 실습 #3 : "TDD 는 반드시 필요한가?" 에 대한 report
 
 > Code Review 와 Test 는 어떻게 연관되어야 하는가?  
 > Legacy code에 Test 를 반드시 만들어야 하는가?
